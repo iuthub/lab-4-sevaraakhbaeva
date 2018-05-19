@@ -1,0 +1,3 @@
+Sevara;MA;223;visa;
+Maksat;MD;224324;mastercard;
+Test;MA;65476473294;visa;
